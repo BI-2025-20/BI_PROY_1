@@ -1,0 +1,75 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyCharm specific files
+.idea/
+
+# VS Code specific files
+.vscode/
+
+# Python virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Jupyter runtime and config
+.jupyter/
+.local/share/jupyter/
+
+# pipenv and poetry
+Pipfile.lock
+poetry.lock
+
+# Pyre type checker
+.pyre/
+
+# mypy
+.mypy_cache/
+
+# pytest
+.pytest_cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Jupyter Notebook auto-generated files
+*.nbconvert.ipynb
+
+# System/macOS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment variable files (if used)
+.env
+.env.*
+
+# Editable installs
+*.egg-info/
+dist/
+build/
+
+# VSCode Jupyter kernel metadata
+*.kernel.json
+
+# Spyder (if opened accidentally)
+.spyderproject
+.spyproject

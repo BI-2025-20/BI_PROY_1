@@ -524,24 +524,6 @@ Este proyecto es parte de un trabajo académico para la Universidad de los Andes
 
 ---
 
-## 📞 Soporte
-
-Para problemas técnicos o preguntas:
-- Revisa la sección [Solución de Problemas](#-solución-de-problemas)
-- Consulta los logs en la terminal
-- Verifica la documentación Swagger: http://localhost:3001/api/docs
-
----
-
-## 🎓 Créditos
-
-**Proyecto Académico - Universidad de los Andes**
-- Curso: Business Intelligence
-- Semestre: 8vo (2025)
-- Cliente: Fondo de Población de las Naciones Unidas (UNFPA)
-
----
-
 ## ✅ Checklist de Instalación
 
 Antes de usar en producción, verifica:
